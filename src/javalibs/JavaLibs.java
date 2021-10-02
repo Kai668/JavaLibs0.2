@@ -37,12 +37,12 @@ public class JavaLibs {
         System.out.println("Enter number: ");
         String number = keyboardInput.nextLine();
         
-        System.out.println("My name is " + name);
-        System.out.println("I really like the color " + color);
-        System.out.println("My favorite thing to do is " + verb);
-        System.out.println("My favorite place to go on the weekends is " + noun);
-        System.out.println("I might have a crush on " + Name);
-        System.out.println("My favorite numer is " + number);
+        System.out.println("Hi I'm " + name);
+        System.out.println("Let me tell you some stuff about me. First, I think the BEST color in the world is " + color);
+        System.out.println("I really like to " + verb);
+        System.out.println("You'll see me mostly hanging out at " + noun);
+        System.out.println("I may or may not have a slight crush on " + Name);
+        System.out.println("The number I think is really cool is " + number);
     }
     
 }
